@@ -11,3 +11,11 @@ def bubble_sort(arr):
 example_list = [64, 34, 25, 12, 22, 11, 90]
 sorted_list = bubble_sort(example_list)
 print("Sorted list:", sorted_list)
+
+
+
+
+# Bubble sort
+# It always compares with the adjacent element.
+# It has a time complexity O(n**2)
+# Bubble sort is a stable algorithm. This means if there are same values in the list or array, their order will remain the same as the original order.
